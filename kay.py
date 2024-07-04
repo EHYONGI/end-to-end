@@ -3,7 +3,9 @@ def is_odd(x):
         return True
     else:
         return False
-<<<<<<< HEAD
-=======
 
->>>>>>> kay
+def my_max(x, y):
+    if x > y:
+        return x
+    else :
+        return y
