@@ -3,7 +3,3 @@ def is_odd(x):
         return True
     else:
         return False
-<<<<<<< HEAD
-=======
-
->>>>>>> kay
